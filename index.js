@@ -14,7 +14,7 @@ const Voting_location_schema=mangoos.Schema({
 })
 
 location_model=mangoos.model("Voting_Location_Schema",Voting_location_schema)
-app.get("/",async(req,res)=>{
+app.get("/",(req,res)=>{
     // console.log("ok")
     // try {
     //     const all_location=location_model.find()
