@@ -15,15 +15,15 @@ const Voting_location_schema=mangoos.Schema({
 
 location_model=mangoos.model("Voting_Location_Schema",Voting_location_schema)
 app.get("/",async(req,res)=>{
-    console.log("ok")
-    try {
-        const all_location=location_model.find()
-        res.status(200).json(all_location)
-    } catch (error) {
-        res.status(500).json(error)
-    } 
     // console.log("ok")
-    // res.send("hey sakib")
+    // try {
+    //     const all_location=location_model.find()
+    //     res.status(200).json(all_location)
+    // } catch (error) {
+    //     res.status(500).json(error)
+    // } 
+    // console.log("ok")
+    res.send("hey sakib")
 })
 // app.get('/', (req, res) => {
 //   res.send('Hello World-3!')
