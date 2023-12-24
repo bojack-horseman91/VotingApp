@@ -4,7 +4,7 @@ const port = 3000|process.env.PORT
 const location_router=require("./VotingLocation/VotingLocationRouter")
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello World-2!')
 })
 app.use("/api/location",location_router)
 app.listen(port, () => {
