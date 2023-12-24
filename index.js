@@ -6,14 +6,14 @@ const location_router=require("./VotingLocation/VotingLocationRouter")
 const controller=require('./VotingLocation/VotingLocationController')
 const parser=require('body-parser')
 
-// const Voting_location_schema=mangoos.Schema({
-//     location:{type:String},
-//     imageURL:{type:String},
-//     presiding_officer:{type:String},
-//     police_officer:{type:String},
-// })
+const Voting_location_schema=mangoos.Schema({
+    location:{type:String},
+    imageURL:{type:String},
+    presiding_officer:{type:String},
+    police_officer:{type:String},
+})
 
-// location_model=mangoos.model("Voting_Location_Schema",Voting_location_schema)
+location_model=mangoos.model("Voting_Location_Schema",Voting_location_schema)
 // app.get("/",(req,res)=>{
 //     // console.log("ok")
 //     // try {
@@ -26,7 +26,8 @@ const parser=require('body-parser')
 //     res.send("hey sakib")
 // })
 app.get('/', (req, res) => {
-  res.send('Hello World-3!')
+  const all_location=location_model.find()
+  res.send('Hello World-4!')
 })
 app.get("/sex",(req,res)=>{res.send("bohut tej")})
 app.use("/api/location",location_router)
