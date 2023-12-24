@@ -1,5 +1,5 @@
 const location_model=require("./VotingLocationModel")
-const getAllLocation=async(req,res)=>{
+const getAllLocation=(req,res)=>{
     // try {
     //     const all_location=await location_model.find()
     //     res.status(200).json(all_location)
@@ -7,6 +7,7 @@ const getAllLocation=async(req,res)=>{
     //     res.status(500).json(error)
     // } 
     console.log("ok")
+    res.send("hey sakib")
 }
 
 const makeLocation=async(req,res)=>{
