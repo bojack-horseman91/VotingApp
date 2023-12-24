@@ -2,8 +2,8 @@ const express = require('express')
 const mangoos = require("mongoose")
 const app = express()
 const port = 3000|process.env.PORT
-// const location_router=require("./VotingLocation/VotingLocationRouter")
-const controller=require('./VotingLocation/VotingLocationController')
+const location_router=require("./VotingLocation/VotingLocationRouter")
+// const controller=require('./VotingLocation/VotingLocationController')
 const parser=require('body-parser')
 
 // const Voting_location_schema=mangoos.Schema({
