@@ -21,6 +21,7 @@ const makeLocation=async(req,res)=>{
         await newLocation.save()
         res.status(200).json("Location Created Successfull")
     } catch (error) {
+        console.log("location creation failed")
         res.status(500).json(error)   
     }
 }
