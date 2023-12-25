@@ -15,8 +15,9 @@ const getAllLocation=async(req,res)=>{
 const makeLocation=async(req,res)=>{
     const newLocation=new location_model(req.body)
     console.log("you are making a location")
-    // console.log(req)
+    console.log(req.body)
     try {
+        console.log(newLocation)
         await newLocation.save()
         res.status(200).json("Location Created Successfull")
     } catch (error) {
