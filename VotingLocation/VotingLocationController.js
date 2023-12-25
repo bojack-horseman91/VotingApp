@@ -1,5 +1,6 @@
 const location_model=require("./VotingLocationModel")
 const getAllLocation=async(req,res)=>{
+    console.log(location_model)
     console.log("you are in location")
     try {
         const all_location=await location_model.find()
@@ -14,7 +15,7 @@ const getAllLocation=async(req,res)=>{
 const makeLocation=async(req,res)=>{
     const newLocation=new location_model(req.body)
     console.log("you are making a location")
-    console.log(req)
+    // console.log(req)
     try {
         await newLocation.save()
         res.status(200).json("Location Created Successfull")
