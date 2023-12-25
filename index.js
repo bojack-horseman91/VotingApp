@@ -5,7 +5,7 @@ const port = 3000|process.env.PORT
 const location_router=require("./VotingLocation/VotingLocationRouter")
 // const controller=require('./VotingLocation/VotingLocationController')
 const parser=require('body-parser')
-const mangoos=require("mongoose")
+// const mangoos=require("mongoose")
 // const Voting_location_schema=mangoos.Schema({
 //     location:{type:String},
 //     imageURL:{type:String},
