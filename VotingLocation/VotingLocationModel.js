@@ -6,4 +6,4 @@ const Voting_location_schema=mangoos.Schema({
     police_officer:{type:String},
 })
 
-module.exports=mangoos.model.Voting_location_schema || mangoos.model("Voting_Location_Schema",Voting_location_schema)
+module.exports= mangoos.model("Voting_Location_Schema",Voting_location_schema)
