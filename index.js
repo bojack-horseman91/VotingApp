@@ -5,7 +5,7 @@ const port = 3000|process.env.PORT
 const location_router=require("./VotingLocation/VotingLocationRouter")
 // const controller=require('./VotingLocation/VotingLocationController')
 const parser=require('body-parser')
-
+const mangoos=require("mongoose")
 // const Voting_location_schema=mangoos.Schema({
 //     location:{type:String},
 //     imageURL:{type:String},
@@ -25,6 +25,7 @@ const parser=require('body-parser')
 //     // console.log("ok")
 //     res.send("hey sakib")
 // })
+mangoos.connect(process.env.MONGODB_URL).then(()=>console.log("ok")).catch((err)=>console.log(err))
 app.get('/', (req, res) => {
 //   const all_location=location_model.find()
   res.send('Hello World-4!')
