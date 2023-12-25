@@ -25,6 +25,7 @@ const parser=require('body-parser')
 //     // console.log("ok")
 //     res.send("hey sakib")
 // })
+console.log(process.env.MONGODB_URL,process.env.PORT)
 mangoos.connect(process.env.MONGODB_URL).then(()=>console.log("ok")).catch((err)=>console.log(err))
 app.get('/', (req, res) => {
 //   const all_location=location_model.find()
