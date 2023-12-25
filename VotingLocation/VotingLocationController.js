@@ -6,6 +6,7 @@ const getAllLocation=async(req,res)=>{
         const all_location=await location_model.find()
         res.status(200).json(all_location)
     } catch (error) {
+        console.log("failure")
         res.status(500).json(error)
     } 
     // console.log("ok")
