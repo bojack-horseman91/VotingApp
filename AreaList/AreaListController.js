@@ -1,9 +1,9 @@
-const location_model=require("./VotingLocationModel")
+const area_list_model=require("./AreaListModel")
 const getAllLocation=async(req,res)=>{
-    console.log(location_model)
-    console.log("you are in location")
+    console.log(area_list_model)
+    console.log("you are in area list")
     try {
-        const all_location=await location_model.find()
+        const all_location=await area_list_model.find()
         res.status(200).json(all_location)
     } catch (error) {
         console.log("failure")
@@ -17,7 +17,7 @@ const getOneLocation=async(req,res)=>{
     
     console.log("finding only one")
     try {
-        const all_location=await location_model.find({"location":req.query.location})
+        const all_location=await area_list_model.find({"location":req.query.location})
         res.status(200).json(all_location)
     } catch (error) {
         console.log("failure")
@@ -27,15 +27,15 @@ const getOneLocation=async(req,res)=>{
     // res.send("hey sakib")
 }
 const makeLocation=async(req,res)=>{
-    const newLocation=new location_model(req.body)
-    console.log("you are making a location")
+    const newLocation=new area_list_model(req.body)
+    console.log("you are making a list")
     console.log(req.body)
     try {
         console.log(newLocation)
         await newLocation.save()
         res.status(200).json("Location Created Successfull")
     } catch (error) {
-        console.log("location creation failed")
+        console.log("list creation failed")
         res.status(500).json(error)   
     }
 }

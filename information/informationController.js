@@ -1,7 +1,7 @@
-const location_model=require("./VotingLocationModel")
+const location_model=require("./informationModel")
 const getAllLocation=async(req,res)=>{
     console.log(location_model)
-    console.log("you are in location")
+    console.log("you are in information list")
     try {
         const all_location=await location_model.find()
         res.status(200).json(all_location)
@@ -28,14 +28,14 @@ const getOneLocation=async(req,res)=>{
 }
 const makeLocation=async(req,res)=>{
     const newLocation=new location_model(req.body)
-    console.log("you are making a location")
+    console.log("you are making a information")
     console.log(req.body)
     try {
         console.log(newLocation)
         await newLocation.save()
-        res.status(200).json("Location Created Successfull")
+        res.status(200).json(" Created information Successfull")
     } catch (error) {
-        console.log("location creation failed")
+        console.log("information creation failed")
         res.status(500).json(error)   
     }
 }

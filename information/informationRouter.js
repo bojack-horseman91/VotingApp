@@ -1,5 +1,5 @@
 const router=require('express').Router()
-const controller=require('./VotingLocationController')
+const controller=require('./informationController')
 const parser=require('body-parser')
 
 router.post("/make",parser.json(),controller.makeLocation)
