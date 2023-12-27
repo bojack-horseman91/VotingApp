@@ -1,6 +1,6 @@
 const location_model=require("./informationModel")
 const getAllLocation=async(req,res)=>{
-    console.log(location_model)
+    // console.log(location_model)
     console.log("you are in information list")
     try {
         const all_location=await location_model.find()
@@ -29,7 +29,7 @@ const getOneLocation=async(req,res)=>{
 const makeLocation=async(req,res)=>{
     const newLocation=new location_model(req.body)
     console.log("you are making a information")
-    console.log(req.body)
+    // console.log(req.body)
     try {
         console.log(newLocation)
         await newLocation.save()
