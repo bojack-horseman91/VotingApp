@@ -8,6 +8,7 @@ const location_router=require("./VotingLocation/VotingLocationRouter")
 const area_list_router=require("./AreaList/AreListRouter")
 const information_router=require("./information/informationRouter")
 const union_router=require("./List/ListRouter")
+const local_information_router=require("./local_information/informationRouter")
 
 const parser=require('body-parser')
 
@@ -22,6 +23,7 @@ app.use("/api/location",location_router)
 app.use("/api/arealist",area_list_router)
 app.use("/api/list",union_router)
 app.use("/api/info",information_router)
+app.use("/api/local_info",local_information_router)
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
