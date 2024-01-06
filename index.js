@@ -1,8 +1,11 @@
 const express = require('express')
 const mangoos = require("mongoose")
 const dotenv=require('dotenv')
+var cors = require('cors')
 dotenv.config()
 const app = express()
+app.use(cors())
+
 const port = 3000|process.env.PORT
 const location_router=require("./VotingLocation/VotingLocationRouter")
 const area_list_router=require("./AreaList/AreListRouter")
