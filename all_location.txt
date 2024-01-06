@@ -1,0 +1,1232 @@
+[
+  {
+    "location": "এম  এম  চৌধুরী মেমোরিয়াল উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "সেনবাগ সরকারি পাইলট উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ছাতারপাইয়া উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "পূর্ব ছাতারপাইয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "বসন্তপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "বসন্তপুর ঈদগাহ দাখিল মাদ্রাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "বিরাহিমপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "লেমুয়া উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "কাদরা হামিদিয়া দাখিল মাদ্রাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "অষ্টদ্রোন সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "বিন্নাগুনী সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "সেনবাগ সরকারি কলেজ",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "চিলাদি সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "লুধুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "খাজুরিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "আটিয়াবাড়ী সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "উন্দানিয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "কানকিরহাট উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ইটবাড়ীয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "কেশারপাড় সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "কালারাইতা সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "পরিকোট উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "মতইন সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "নলুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "জিরুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ডমুরুয়া সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "মইশাই সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "এনায়েতপুর রহমতিয়া আলিম মাদ্রাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "গাজীরহাট উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "তাহিরপুর তামিরুল উম্মাত দাখিল মাদ্রাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "নিজ সেনবাগ সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "উত্তর জয়নগর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "কাদরা সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "হিজলী সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "নজরপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "চাঁদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "আহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ছিলোনিয়া ইউনিয়ন উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ইদিলপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "নাজিরনগর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "উত্তর মানিকপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "মানিকপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "উত্তর গোরকাটা সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "পূর্ব ইয়ারপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ইয়ারপুর উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ডোমনাকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "উত্তর সাহাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "আজিজপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "সায়েস্তানগর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "কাবিলপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "সাদেকপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "পশ্চিম আহম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "শের-ই বাংলা উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "সেবারহাট সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "রাজারামপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "দক্ষিণ মোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "পূর্ব মোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "মদিনাতুল উলূম নূরানী হাফিজিয়া মাদরাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "উত্তর মোহাম্মদপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ধর্মপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "জয়নগর উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "কালিকাপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ফকিরহাট হাজী অছিমুদ্দিন সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "বিজবাগ রাব্বানিয়া আলিম মাদরাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "বীজবাগ নবকৃষ্ণ উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "মমিন উল্যাহ সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "এসফাকুল হক মান্না আলিম মাদ্রাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "নবীপুর উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "শ্রীপদ্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "কুতুবেরহাট উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "বিষ্ণুপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ঠেকারহাট সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "ফতেহপুর মনিরুন্নেছা সাহেবানী সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "পশ্চিম ছাতারপাইয়া দারুল উলুম কাওমী মাদ্রাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "পঃ ছাতারপাইয়া পল্লী মঙ্গল সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "খাজুরিয়া ইসলামিয়া জামিয়া মাদ্রাসা",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "মটুবী সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "মহিদিপুর এ জি সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "মোহাম্মদপুর বালিকা সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "বালিয়াকান্দি সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "চাঁদপুর আদর্শ উচ্চ বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  },
+  {
+    "location": "গোপালপুর সরকারি প্রাথমিক বিদ্যালয়",
+    "updates": {
+      "presiding_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      },
+      "police_officer": {
+        "name": "অনন্ত জলিল",
+        "position": "WRTIE POSITION",
+        "phone": "01992970327"
+      }
+    }
+  }
+]

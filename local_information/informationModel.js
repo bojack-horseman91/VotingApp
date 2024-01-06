@@ -1,6 +1,7 @@
 const mangoos = require("mongoose")
 const Voting_location_schema=mangoos.Schema({
     position:{type:String},
+    name:{type:String},
     phone:{type:String}
 })
 

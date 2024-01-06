@@ -5,6 +5,7 @@ const parser=require('body-parser')
 router.post("/make",parser.json(),controller.makeLocation)
 router.get('/loc',controller.getLocation)
 router.get("/",controller.getAllLocation)
+router.post("/update",parser.json(),controller.updateOneLocation)
 
 
 

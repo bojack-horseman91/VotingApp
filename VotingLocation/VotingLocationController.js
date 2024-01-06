@@ -1,9 +1,40 @@
 const location_model=require("./VotingLocationModel")
-const getAllLocation=async(req,res)=>{
+const fs = require('fs');
+
+const getAllLocation=async(req,res,next)=>{
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    next();
     console.log(location_model)
     console.log("you are in location")
     try {
         const all_location=await location_model.find()
+        // Convert the all_location data to a JSON string
+        
+    //     const jsonData = JSON.stringify(all_location.map((loc)=>{return {"location":loc.location,
+    //     "updates":{ 
+    //         "presiding_officer": {
+    //           "name": "অনন্ত জলিল",
+    //           "position": "WRTIE POSITION",
+    //           "phone": "01992970327"
+    //         },
+    //         "police_officer": {
+    //           "name": "অনন্ত জলিল",
+    //           "position": "WRTIE POSITION",
+    //           "phone": "01992970327"
+    //         }
+    //       }
+
+    // }})
+    //     , null, 2);
+    // // const jsonData = JSON.stringify(all_location.map((loc)=>{return loc.location
+       
+
+    // // })
+    // //     , null, 2);
+
+    //     // Write the JSON data to a text file named 'all_location.txt'
+    //     fs.writeFileSync('all_location.txt', jsonData);
         res.status(200).json(all_location)
     } catch (error) {
         console.log("failure")
@@ -26,6 +57,38 @@ const getOneLocation=async(req,res)=>{
     // console.log("ok")
     // res.send("hey sakib")
 }
+const updateOneLocation=async(req,res)=>{
+    // console.log(location_model)
+    
+   
+
+    try {
+        const result=await location_model.updateOne(
+            {"location":req.query.location}, // Specify the document you want to update
+            { $set: req.body  } // Use $set to update the specific field
+        );
+
+        console.log(result);
+
+        if (result.nModified > 0) {
+            console.log('Field updated successfully');
+        } else {
+            console.log('Field not updated, document not found');
+        }
+        // console.log(Object.keys(req.body))
+        // one_location.set()
+        res.status(200).json(result)
+    } catch (error) {
+        console.log("failure")
+        res.status(500).json(error)
+    } 
+    // console.log("ok")
+    // res.send("hey sakib")
+}
+
+
+
+
 const makeLocation=async(req,res)=>{
     const newLocation=new location_model(req.body)
     console.log("you are making a location")
@@ -44,5 +107,5 @@ module.exports={
     "makeLocation":makeLocation,
     "getAllLocation":getAllLocation,
     "getLocation":getOneLocation,
-
+    "updateOneLocation":updateOneLocation,
 }

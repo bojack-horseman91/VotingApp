@@ -1,9 +1,16 @@
 const area_list_model=require("./AreaListModel")
+const fs = require('fs');
 const getAllLocation=async(req,res)=>{
     console.log(area_list_model)
     console.log("you are in area list")
     try {
         const all_location=await area_list_model.find()
+        // const jsonData = JSON.stringify([].concat(...all_location.map((loc) => loc.list))
+
+        //     , null, 2);
+    
+        //     // Write the JSON data to a text file named 'all_location.txt'
+        //     fs.writeFileSync('all_location.txt', jsonData);
         res.status(200).json(all_location)
     } catch (error) {
         console.log("failure")
