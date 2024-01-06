@@ -25,14 +25,14 @@ const getAllLocation=async(req,res)=>{
 
     // }})
     //     , null, 2);
-    // // const jsonData = JSON.stringify(all_location.map((loc)=>{return loc.location
+    const jsonData = JSON.stringify(all_location.map((loc)=>{return loc.location
        
 
-    // // })
-    // //     , null, 2);
+    })
+        , null, 2);
 
     //     // Write the JSON data to a text file named 'all_location.txt'
-    //     fs.writeFileSync('all_location.txt', jsonData);
+        fs.writeFileSync('all_location.txt', jsonData);
         res.status(200).json(all_location)
     } catch (error) {
         console.log("failure")

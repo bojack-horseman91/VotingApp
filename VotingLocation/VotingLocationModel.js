@@ -4,7 +4,7 @@ const Voting_location_schema=mangoos.Schema({
     locationURL:{type:String},
     imageURL:{type:String},
     presiding_officer:{name:{type:String},position:{type:String},phone:{type:String}},
-    asst_presiding_officer:[{name:{type:String},position:{type:String},phone:{type:String}}],
+    asst_presiding_officer:{name:{type:String},position:{type:String},phone:{type:String}},
     police_officer:{name:{type:String},position:{type:String},phone:{type:String}},
     vote_count:[{name:{type:String},vote:{type:Number}}]
 })  
