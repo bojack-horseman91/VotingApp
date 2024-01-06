@@ -1,10 +1,8 @@
 const location_model=require("./VotingLocationModel")
 const fs = require('fs');
 
-const getAllLocation=async(req,res,next)=>{
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-    next();
+const getAllLocation=async(req,res)=>{
+    
     console.log(location_model)
     console.log("you are in location")
     try {
